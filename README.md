@@ -1,2 +1,2 @@
 # airflow-dag
-Code practices for scheduling using Airflow DAG
+Incorporating Airflow DAG function in basic Python coding practices
